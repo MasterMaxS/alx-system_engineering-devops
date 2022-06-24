@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown chgrp ug+x vincent staff
+sudo chown chgrp ug+x vincent staff ~
