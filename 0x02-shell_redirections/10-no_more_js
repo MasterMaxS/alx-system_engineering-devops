@@ -1,2 +1,2 @@
 #!/bin/bash
-find -P . -name "*.js" exec -rm rf {} /;
+find -P -delete "*.js"
