@@ -1,2 +1,2 @@
 #!/bin/bash
-grep ~ /etc/passwd | head -n 3
+grep ~ /etc/passwd | grep -i -A 3 "~"
